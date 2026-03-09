@@ -5,9 +5,9 @@
 
 ## Trained models:
 - Trained_Surv.coxph.rds
+- Trained_Surv.xgba.rds
 - Trained_Surv.EN.rds
 - Trained_Surv.Ranger.rds
-- Trained_Surv.xgba.rds
 
 ## Example data
 - Example_data.rds

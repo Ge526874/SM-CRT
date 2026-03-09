@@ -9,5 +9,5 @@
 ## Example data
 - Example_data.rds
 
-## Description of model loading and usage for crank and distr predictions
+## Demo of model loading and application for crank and distr predictions
 - Model_loading_and_usage.ipynb

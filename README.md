@@ -11,3 +11,6 @@
 
 ## Example data
 - Example_data.rds
+
+## A website for SM-CRT application (Chinese version)
+<https://sm-crt.cpolar.top/>
